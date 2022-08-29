@@ -1,8 +1,5 @@
- 👀 Olá! Eu sou a Gabriela Queiroz! Seja bem vindo(a) ao meu perfil :)
-- 👋 Hi, I’m @GabiQueiroz2
-- I’m interested in following the technology area.
-- 🌱 I’m currently learning a Python programming language, software engineering and information systems.
-- 💞️ I’m looking to collaborate with the future of technology.
+ 👀 Olá! Eu sou a Gabriela Queiroz! Seja bem vindo(a) ao meu perfil.
+- 💞️ Sou estudante universitária de Análise e Desenvolvimento de Sistemas e apaixonada pela tecnologia!
 
 <div align="center">
   <a href="https://github.com/GabiQueiroz26">
@@ -16,16 +13,15 @@
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />         
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/691744379660009496/1013871919600255037/imagem-removebg-preview.png">
+  <img align="right" alt="Rafa-pic" height="160" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/691744379660009496/1013871919600255037/imagem-removebg-preview.png">
 </div>
  
   ##
  
 <div> 
   <a href="https://instagram.com/gabrielaqueiroz26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "freiras98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielaqueiroz26/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
