@@ -16,7 +16,6 @@
   <img align="right" alt="Gabi-pic" height="160" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/691744379660009496/1013871919600255037/imagem-removebg-preview.png">
 </div>
  
-  ##
  
 <div> 
   <a href="https://instagram.com/gabrielaqueiroz26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
